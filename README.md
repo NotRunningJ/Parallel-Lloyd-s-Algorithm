@@ -1,4 +1,4 @@
-# Parallel Lloyd's Algorithms
+# Parallel Lloyd's Algorithm
 
 LLoyd.java is my serial multidimensional algorithm using points
 for however many dimensions we want in our data.
